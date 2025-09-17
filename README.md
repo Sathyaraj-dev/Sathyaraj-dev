@@ -2,18 +2,26 @@
 
 <h3 align="center">Senior Front-end developer </h3>
 
+I'm a creative and detail-driven front-end developer who thrives on building sleek, user-friendly, and high-performance web applications. I transform ideas into interactive, responsive experiences using cutting-edge web technologies and industry best practices — with a strong focus on optimizing Web Vitals, improving Lighthouse performance scores, and delivering fast, accessible, and reliable digital products.
 
-👋 I'm a passionate and highly skilled front-end developer with a keen eye for design and a love for creating engaging user experiences. My expertise lies in building responsive and interactive web applications using the latest technologies and best practices.
+---
 
-🚀 Skilled in Front-End Technologies such as HTML, CSS, JavaScript, ES6, jQuery, ReactJS, Redux, Redux Toolkit, Nextjs, Bootstrap, Flexbox, Tailwind CSS, Material UI, and Responsive web design,
+## 🚀 My Expertise
 
-💼 Throughout my journey as a front-end developer, I have collaborated on various projects, contributing to the development of both small-scale websites and complex web applications.
+- **Languages & Frameworks**: HTML, CSS, JavaScript (ES6+), jQuery, React.js, Next.js, Angular, Vue.js, React Native  
+- **State Management**: Redux, Redux Toolkit  
+- **UI Frameworks & Styling**: Bootstrap, Tailwind CSS, Material UI, Flexbox, Responsive Web Design  
+- **Performance Optimization**: Web Vitals (FCP, LCP, CLS), Lighthouse Performance Audits, Code Splitting, Lazy Loading, Image Optimization  
+- **Tools & Practices**: Git, Webpack, REST APIs, Responsive Design, Cross-Browser Compatibility, SEO Best Practice
 
-🔧 I keep myself up-to-date with the latest trends and advancements in the front-end development landscape. This allows me to stay ahead of the curve and continually improve my skills, keeping my projects innovative and cutting-edge.
 
-🌟 I'm an open-source enthusiast and actively contribute to the developer community through my GitHub repositories. You'll find a mix of personal projects, experimental code, and collaborative ventures here. Feel free to explore, use, and contribute to any of my repositories – I always welcome feedback and new ideas.
+---
 
-📈 If you're interested in collaborating on exciting front-end projects or discussing anything related to web development, don't hesitate to reach out. Let's connect and create something remarkable together!
+## 💼 My Journey
+
+Throughout my career, I’ve contributed to a wide range of projects, from small business websites to large-scale web applications, focusing on clean code, scalability, and user-centric interfaces. I actively stay updated with industry trends, ensuring that my work is innovative and follows the best standards.
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
