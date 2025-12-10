@@ -9,7 +9,7 @@ I'm a creative and detail-driven front-end developer who thrives on building sle
 ## 🚀 My Expertise
 
 - **Languages & Frameworks**: HTML, CSS, JavaScript (ES6+), jQuery, React.js, Next.js, Angular, Vue.js, React Native  
-- **State Management**: Redux, Redux Toolkit  
+- **State Management**: Redux, Redux Toolkit, Zustand
 - **UI Frameworks & Styling**: Bootstrap, Tailwind CSS, Material UI, Flexbox, Responsive Web Design  
 - **Performance Optimization**: Web Vitals (FCP, LCP, CLS), Lighthouse Performance Audits, Code Splitting, Lazy Loading, Image Optimization  
 - **Tools & Practices**: Git, Webpack, REST APIs, Responsive Design, Cross-Browser Compatibility, SEO Best Practice
